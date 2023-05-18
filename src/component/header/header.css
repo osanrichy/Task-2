@@ -1,0 +1,39 @@
+.searchWrapper{
+    padding: 10px 4px 10px 8px;
+}
+.search{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgb(183, 180, 180);
+    border-radius: 7px;
+    background: white;
+    padding: 3px 6px;
+}
+.searchBox{
+    border: 0;
+    outline: 0;
+    width: 70%;
+}
+.searchbtn{
+    display: flex;
+    gap: 0.8rem;
+    align-items: center;
+    padding: 3px;
+}
+.searhWord{
+    font-weight: 100;
+}
+.btn{
+    background: rgb(250, 164, 5);
+    color: black;
+    padding: 2px 12px;
+    border: 1px solid rgba(109, 105, 105, 0.9);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+/* .btn:hover{
+    border: 0;
+    box-shadow: 0 0 2px rgba(60, 58, 58, 0.9);
+} */
