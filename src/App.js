@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./component/header/Header";
 import Feeds from "./component/feeds/Feeds";
-import './app.css'
+import './index.css'
 
 function App() {
   return (

@@ -1,0 +1,18 @@
+.container {
+    width: 85%;
+    overflow: hidden;
+    margin: 3rem auto;
+    background: rgb(173, 170, 170);
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 92%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: 99%;
+    }
+}

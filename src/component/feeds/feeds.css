@@ -129,9 +129,6 @@
 }
 
 @media screen and (max-width: 600px) {
-    .container{
-        background: green;
-    }
     .rightFeed {
         width: 38%;
         font-size: 14px;
